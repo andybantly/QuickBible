@@ -1,0 +1,433 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "QuickBible Resource DLL"
+            VALUE "CompanyName", "GravyLabs LLC"
+            VALUE "FileDescription", "QuickBible Dynamic Link Library"
+            VALUE "FileVersion", "1.08.0131"
+            VALUE "InternalName", "QBRes"
+            VALUE "LegalCopyright", "Copyright (C) 2007 GravyLabs LLC, All Rights Reserved"
+            VALUE "OriginalFilename", "QBRes.dll"
+            VALUE "ProductName", "QuickBible Application Dynamic Link Library"
+            VALUE "ProductVersion", "1.08.0131"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING101           "mailto:support@quickbiblesoftware.com?subject=QuickBible Support"
+    IDS_STRING102           "Choose Background Image"
+    IDS_STRING103           ".bmp"
+    IDS_STRING104           "*.bmp"
+    IDS_STRING105           "bmp (*.bmp)|*.bmp||"
+    IDS_STRING106           "There is no image file chosen to be the background"
+    IDS_STRING107           "Unable to create the preview window"
+    IDS_STRING108           "Unable to create the verse finder window"
+    IDS_STRING109           "Todays New International Version"
+    IDS_STRING110           "New International Version"
+    IDS_STRING111           "New American Standard Bible"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING112           "The Message"
+    IDS_STRING113           "Amplified Bible"
+    IDS_STRING114           "New Living Translation"
+    IDS_STRING115           "King James Version"
+    IDS_STRING116           "King James Version Apocrypha"
+    IDS_STRING117           "English Standard Version"
+    IDS_STRING118           "Contemporary English Version"
+    IDS_STRING119           "New King James Version"
+    IDS_STRING120           "21st Century King James Version"
+    IDS_STRING121           "American Standard Version"
+    IDS_STRING122           "Youngs Literal Translation"
+    IDS_STRING123           "Darby Translation"
+    IDS_STRING124           "New Life Version"
+    IDS_STRING125           "Holman Christian Standard Bible"
+    IDS_STRING126           "New Internation Readers Version"
+    IDS_STRING127           "New International Version UK"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING128           "Wycliffe New Testament"
+    IDS_STRING129           "Worldwide English New Testament"
+    IDS_STRING130           "Douay-Rheims"
+    IDS_STRING131           "Elberfelder"
+    IDS_STRING132           "Hoffnung fur Alle"
+    IDS_STRING133           "Luther Bibel 1545"
+    IDS_STRING134           "La Bible du Semeur"
+    IDS_STRING135           "Louis Segond"
+    IDS_STRING136           "Biblia en Lenguaje Sencillo"
+    IDS_STRING137           "Castillian"
+    IDS_STRING138           "Dios Habla Hoy"
+    IDS_STRING139           "La Biblia De Las Americas"
+    IDS_STRING140           "Nueva Version Internacional"
+    IDS_STRING141           "Reina-Valera 1960"
+    IDS_STRING142           "Reina-Valera 1995"
+    IDS_STRING143           "Reina-Valera Antigua"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING144           "Conferenza Episcopale Italiana"
+    IDS_STRING145           "La Nuova Diodati"
+    IDS_STRING146           "La Parola è Vita"
+    IDS_STRING147           "Biblia Sacra Vulgata"
+    IDS_STRING148           "TNIV"
+    IDS_STRING149           "NIV"
+    IDS_STRING150           "NASB"
+    IDS_STRING151           "MSG"
+    IDS_STRING152           "AMP"
+    IDS_STRING153           "NLT"
+    IDS_STRING154           "KJV"
+    IDS_STRING155           "APOC"
+    IDS_STRING156           "ESV"
+    IDS_STRING157           "CEV"
+    IDS_STRING158           "NKJV"
+    IDS_STRING159           "KJ21"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING160           "ASV"
+    IDS_STRING161           "YLT"
+    IDS_STRING162           "DARBY"
+    IDS_STRING163           "NLV"
+    IDS_STRING164           "HCSB"
+    IDS_STRING165           "NIRV"
+    IDS_STRING166           "NIVUK"
+    IDS_STRING167           "WYC"
+    IDS_STRING168           "WE"
+    IDS_STRING169           "DRA"
+    IDS_STRING170           "ELB"
+    IDS_STRING171           "HOF"
+    IDS_STRING172           "LUTH1545"
+    IDS_STRING173           "BDS"
+    IDS_STRING174           "LSG"
+    IDS_STRING175           "BLS"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING176           "CST"
+    IDS_STRING177           "DHH"
+    IDS_STRING178           "LBLA"
+    IDS_STRING179           "NVI"
+    IDS_STRING180           "RVR1960"
+    IDS_STRING181           "RVR1995"
+    IDS_STRING182           "RVA"
+    IDS_STRING183           "CEI"
+    IDS_STRING184           "LND"
+    IDS_STRING185           "LM"
+    IDS_STRING186           "VULGATE"
+    IDS_STRING187           "Loading Translation"
+    IDS_STRING188           "This verse is not available in the demonstration version"
+    IDS_STRING189           "Verse Finder - Search Results (%d found)"
+    IDS_STRING190           "Failed to create the Overhead Window"
+    IDS_STRING191           "Monitor %d"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING192           "Worksheet"
+    IDS_STRING193           "Settings"
+    IDS_STRING194           "&Off"
+    IDS_STRING195           "&On"
+    IDS_STRING196           "Load Verse List"
+    IDS_STRING197           ".bbl"
+    IDS_STRING198           "*.bbl"
+    IDS_STRING199           "BBL Files (*.bbl)|*.bbl||"
+    IDS_STRING200           "Save Verse List"
+    IDS_STRING201           "O&ff"
+    IDS_STRING202           "O&n"
+    IDS_STRING203           "Use"
+    IDS_STRING204           "Verse"
+    IDS_STRING205           "Background"
+    IDS_STRING206           "Text"
+    IDS_STRING207           "Back"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING208           "Font"
+    IDS_STRING209           "Point Size"
+    IDS_STRING210           "Point Max"
+    IDS_STRING211           "Auto Size"
+    IDS_STRING212           "Center"
+    IDS_STRING213           "Yes"
+    IDS_STRING214           "No"
+    IDS_STRING215           "http://www.quickbiblesoftware.com"
+    IDS_STRING216           "Edit..."
+    IDS_STRING217           "Cancel"
+    IDS_STRING218           "Verse Finder - Search Results (0 found)"
+    IDS_STRING219           "Translation"
+    IDS_STRING220           "Book"
+    IDS_STRING221           "Chapter"
+    IDS_STRING222           "From Verse"
+    IDS_STRING223           "To Verse"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING224           "Scripture"
+    IDS_STRING225           "Lookup Error:"
+    IDS_STRING226           "No Bible DB found!"
+    IDS_STRING227           "&About QuickBible..."
+    IDS_STRING228           "&Load"
+    IDS_STRING229           "&Save"
+    IDS_STRING230           "Ve&rse"
+    IDS_STRING231           "Ne&xt Verse"
+    IDS_STRING232           "V&erse"
+    IDS_STRING233           "&All"
+    IDS_STRING234           "Delete"
+    IDS_STRING235           "File"
+    IDS_STRING236           "Add"
+    IDS_STRING237           "Help"
+    IDS_STRING238           "&Help"
+    IDS_STRING239           "Sear&ch"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING240           "&Off"
+    IDS_STRING241           "Main Display"
+    IDS_STRING242           "Display All Worksheet Verse"
+    IDS_STRING243           "Display Highlighted Worksheet Verse"
+    IDS_STRING244           "Show Verse Translation"
+    IDS_STRING245           "&Update"
+    IDS_STRING246           "Next &Verse"
+    IDS_STRING247           "Preview Display"
+    IDS_STRING248           "Up&date"
+    IDS_STRING249           "QuickBible has detected that in the ""%s"" Bible, a point size of %d will correctly display any single verse.\n\nWould you like to set this as your default point size for non-auto sized fonts?\n\nClick Cancel to not be asked again."
+    IDS_STRING250           "Display Settings"
+    IDS_STRING251           "Auto Size Verse Text"
+    IDS_STRING252           "Center Verse Text"
+    IDS_STRING253           "&Text"
+    IDS_STRING254           "&Back"
+    IDS_STRING255           "Bac&kground"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING256           "Font"
+    IDS_STRING257           "Point Size"
+    IDS_STRING258           "Max Auto Point Size"
+    IDS_STRING259           "QuickBible"
+    IDS_STRING260           "About QuickBible"
+    IDS_STRING261           "QuickBible Scripture Projection Software"
+    IDS_STRING262           "Copyright (C) 2007 GravyLabs LLC"
+    IDS_STRING263           "All rights reserved"
+    IDS_STRING264           "E-Mail:"
+    IDS_STRING265           "support@quickbiblesoftware.com"
+    IDS_STRING266           "Web:"
+    IDS_STRING267           "Image Settings"
+    IDS_STRING268           "The background image is a common image file"
+    IDS_STRING269           "The background image is a solid color"
+    IDS_STRING270           "Blend the background color with the image"
+    IDS_STRING271           "Off"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING272           "Full"
+    IDS_STRING273           " &Image"
+    IDS_STRING274           " &Color"
+    IDS_STRING275           "Cancel"
+    IDS_STRING276           "OK"
+    IDS_STRING277           "Verse Finder"
+    IDS_STRING278           "QuickBible has detected that in the ""%s"" Bible, a point size of %d will correctly display any single verse.\n\nWould you like to set this as your default point size for non-auto sized fonts of this verse?\n\nClick Cancel to not be asked again."
+    IDS_STRING279           "Thank you for using QuickBible.\n\nClick OK to finish."
+    IDS_STRING280           "Clipboard"
+    IDS_STRING281           "&Find"
+    IDS_STRING282           "Search phrase"
+    IDS_STRING283           "Search Results"
+    IDS_STRING284           "Verse"
+    IDS_STRING285           "Add &Selected"
+    IDS_STRING286           "Add &All"
+    IDS_STRING287           "&Preview"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING288           "Full"
+    IDS_STRING289           "Basic"
+    IDS_STRING290           "Personal"
+    IDS_STRING291           "Lite"
+    IDS_STRING292           "Demo"
+    IDS_STRING293           "English"
+    IDS_STRING294           "French"
+    IDS_STRING295           "German"
+    IDS_STRING296           "Spanish"
+    IDS_STRING297           "Italian"
+    IDS_STRING298           "Latin"
+    IDS_STRING299           "A problem with QuickBible has been detected.\n\nReinstalling will fix the problem."
+    IDS_STRING300           "Version"
+    IDS_STRING301           "Transition Slides"
+    IDS_STRING302           "Slow"
+    IDS_STRING303           "Fast"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING304           "Register"
+    IDS_STRING305           "An error occurred during submission of your QuickBible registration.\n\nPlease email support@quickbiblesoftware.com."
+    IDS_STRING306           "Please register this version."
+    IDS_STRING307           "Registration"
+    IDS_STRING308           "{417962D2-7ABC-4e7b-A2C6-46BFFD65967C}"
+    IDS_STRING309           "Email"
+    IDS_STRING310           "Click ""%s"" to send registration information to GravyLabs LLC"
+    IDS_STRING350           "Your QuickBible registration has been submitted for processing."
+    IDS_STRING312           "Name"
+    IDS_STRING313           "Order Number"
+    IDS_STRING314           ">>%sProduct: [QuickBible]%sLanguage: [%s]%sEdition: [%s]%sName: [%s]%sEmail: [%s]%sOrder number: [%s]%sOrder code: [%s]%sRegistration code: [%s]%sRegistration path: [%s]%s<<"
+    IDS_STRING315           "The ""%s"" cannot be empty"
+    IDS_STRING316           "Order Code"
+    IDS_STRING317           "Choose Font"
+    IDS_STRING318           "Sample Text"
+    IDS_STRING319           "Please choose a value between %d and %d"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING320           "Unable to use that image as the background"
+    IDS_STRING321           "common (*.bmp;*.jpg;*.gif;*.png)|*.bmp;*.jpg;*.gif;*.png|bmp (*.bmp;*.dib;*.rle)|*.bmp;*.dib;*.rle|jpeg (*.jpg;*.jpeg;*.jpe;*.jfif)|*.jpg;*.jpeg;*.jpe;*.jfif|gif (*.gif)|*.gif|tiff (*.tif;*.tiff)|*.tif;*.tiff|png (*.png)|*.png|emf (*.emf)|*.emf|wmf (*.wmf)|*.wmf||"
+    IDS_STRING322           "The file %s is not a QuickBible settings file"
+    IDS_STRING323           "Show Verse Citation"
+    IDS_STRING324           "Slide Settings"
+    IDS_STRING325           "Quick Verse"
+    IDS_STRING326           "&Quick Add"
+    IDS_STRING327           "Content"
+    IDS_STRING328           "Unable to create the content management window"
+    IDS_STRING329           "Manage"
+    IDS_STRING330           "Add &Book"
+    IDS_STRING331           "Add &Chapter"
+    IDS_STRING332           "Add &Verse"
+    IDS_STRING333           "Please enter the book name"
+    IDS_STRING334           "Please enter the chapter name"
+    IDS_STRING335           "Please enter the verse"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING336           "That entry is not correct"
+    IDS_STRING346           "Edit Content"
+    IDS_STRING338           "Add"
+    IDS_STRING339           "Edit"
+    IDS_STRING340           "Delete"
+    IDS_STRING344           "Delete the book ""%s""?"
+    IDS_STRING341           "Delete the chapter ""%s""?"
+    IDS_STRING345           "Delete the verse ""%s""?"
+    IDS_STRING348           "Edit Verse"
+    IDS_STRING349           "Update"
+    IDS_STRING351           "QuickBibleProgram@quickbiblesoftware.com"
+    IDS_STRING347           "That item is not valid"
+    IDS_STRING352           "smtp.1and1.com"
+    IDS_STRING353           "587"
+    IDS_STRING354           "The background image is a common video file"
+    IDS_STRING355           "&Video"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING356           "common (*.avi)|*.avi|avi (*.avi)|*.avi||"
+    IDS_STRING357           "Choose Background Video"
+    IDS_STRING358           "Unable to use that video as the background"
+    IDS_STRING359           "The background image is captured"
+    IDS_STRING360           "&Capture"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
