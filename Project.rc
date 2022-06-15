@@ -382,7 +382,7 @@ BEGIN
             VALUE "FileDescription", "QuickBible Application"
             VALUE "FileVersion", "1.08.0131"
             VALUE "InternalName", "QuickBible"
-            VALUE "LegalCopyright", "Copyright (C) 2007 GravyLabs LLC, All Rights Reserved"
+            VALUE "LegalCopyright", "Copyright (C) 2007 Andrew Bantly, All Rights Reserved"
             VALUE "OriginalFilename", "QuickBible.exe"
             VALUE "ProductName", "QuickBible Application"
             VALUE "ProductVersion", "1.08.0131"
